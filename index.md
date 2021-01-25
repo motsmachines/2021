@@ -1,4 +1,4 @@
-## Mots/Machines-2021: Les machines ont-elles le sens de l’humour ?	
+## Words/Machines-2021: Do machines have a sense of humor?
 
 ### Important Dates
 
