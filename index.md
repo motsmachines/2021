@@ -87,7 +87,7 @@ Brest Cedex 3, France
 **Due to the current COVID-19 pandemic, Mots-Machines will also propose ONLINE participation.**
 
 ### Contact
-Website: [https://github.com/motsmachines/2021](https://github.com/motsmachines/2021) 
+Website: [https://motsmachines.github.io/2021/](https://motsmachines.github.io/2021/) 
 
 All questions about submissions should be emailed to _mots dot machines at gmail dot com_ 
 
