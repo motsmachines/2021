@@ -1,37 +1,94 @@
-## Welcome to GitHub Pages
+## Words/Machines-2021: Do machines have a sense of humor?
+## Mots/Machines-2021: Les machines ont-elles le sens de l’humour ?	
 
-You can use the [editor on GitHub](https://github.com/motsmachines/2021/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Important Dates
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Submissions: 7 February 2021 
 
-### Markdown
+Notifications: 9 February 2021
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Workshop: 5 March 2021 
 
-```markdown
-Syntax highlighted code block
+### About
+Language, humans, machines… How are they interconnected? Are machines able to understand a natural language? To understand jokes and puns? Can machines translate them? What are their limits?
 
-# Header 1
-## Header 2
-### Header 3
+The questions of the place of machines in text understanding and translation is especially difficult in the case of humour, as the acceptance of a particular type of humour depends on sociological factors and varies from person to person. Humour contributes to higher subjective well being (both physical and psychological) and is often used to make light of difficult or stressful situations and to brighten up a social atmosphere in general. However, humour perception depends on the culture, thus comedies are not always successful when transplanted into another culture. Humour understanding often requires cultural references or/and catching double meaning, making the text difficult to translate or untranslatable at all.
 
-- Bulleted
-- List
+The aim of this issue of the workshop is to provide a communication platform for translators, computer scientists, and linguists in order to tackle these questions.
 
-1. Numbered
-2. List
+Mots/Machines-2021 is the third issue of the workshop organised by the HCTI lab (Héritages et Constructions dans le Texte et l'Image).
+Information about the previous editions of the workshop in French can be found here:
+- [Mots/Machines 2: Traduction et sentiment : quel sens pour la machine ?](https://www.univ-brest.fr/www-live1-sl.univ-brest.fr/ViewPage.action?siteNodeId=29229&languageId=4)  
+- [Mots/Machines 1: Traduction, transcréation, transformation](https://www.univ-brest.fr/hcti/menu/Actualites/Archives/Mots-Machines) 
 
-**Bold** and _Italic_ and `Code` text
+### Submission Guidelines
+Submissions should be written in English or French following the [CEURART](https://ceurws.wordpress.com/2020/03/31/ceurws-publishes-ceurart-paper-style/) 1-column paper style and be submitted as PDF files via the [EasyChair system]( https://easychair.org/conferences/?conf=motsmachines2021). 
 
-[Link](url) and ![Image](src)
-```
+The papers should be original, i.e. not published in an earlier workshop or conference or journal, except for extended abstracts. Literature reviews, position and demo papers, papers on ongoing work or negative results are welcomed. Translations of previously published works can be accepted as extended abstracts.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+We accept the following types of submissions:
+- Extended abstracts of 500-1000 words with bibliographic references. Bibliographic references are excluded from word count. Previously published papers can be accepted as extended abstracts (please, provide a reference to your previous work in this case).
+- Regular papers of 10-12 standard pages length with an appropriate number of references.
+- Short papers of 5-6 standard pages length with additional pages for references. 
 
-### Jekyll Themes
+### Links:
+Submission system: https://easychair.org/conferences/?conf=motsmachines2021
+Submission template: https://ceurws.wordpress.com/2020/03/31/ceurws-publishes-ceurart-paper-style/ 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/motsmachines/2021/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### List of Topics (not exhaustive)
+- Humour translation
+- Human–computer interaction in pun/humour translation
+- Humour/pun analysis in social networks
+- Humour classification
+- Humour/pun rating
+- Humour detection
+- Pun translation
+- Pun detection
+- Joke generation
+- Pun generation
+- Translation error types and resultant humour
+- Limits of machine translation and CAT systems in humour/pun translation
+- ...
 
-### Support or Contact
+### Invited Speakers
+- Tristan Miller, Research Scientist, Austrian Research Institute for Artificial Intelligence (OFAI), Vienna, Austria: "Human–computer interaction in pun translation"
+- Fabio Regattin, associate professor, Dipartimento di Lingue e letterature, comunicazione, formazione e società (DILL), Università degli Studi di Udine, Italy: “Incursion ludique dans la traduction automatique des jeux de mots”
+- Pavel Braslavsky, Senior researcher, Combinatorial Algebra Lab, Ural Federal University, Russia: “LOL NLP: a short survey of  computational humor”
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Publication
+Extended abstracts and PDF presentations will be published on the website. Selected papers will be considered to be published in the Proceedings. 
+
+### Program Committee
+Liana Ermakova, HCTI, UBO
+Joanna Thornborrow, HCTI, UBO
+Élise Mathurin, HCTI, UBO
+Caroline Comacle, translator, UBO
+Pierre Chartier, HCTI, UBO
+Carole Lesimple, translator, UBO
+Alain Kerhervé, HCTI, UBO
+
+### Organizing committee
+Liana Ermakova, HCTI, UBO
+Joanna Thornborrow, HCTI, UBO
+Élise Mathurin, HCTI, UBO
+Caroline Comacle, translator, UBO
+Pierre Chartier, HCTI, UBO
+Carole Lesimple, translator, UBO
+Alain Kerhervé, HCTI, UBO
+Noémie Flood, HCTI, UBO
+
+### Venue
+The workshop will be held at the University of Western Brittany, Faculty of Arts:
+
+BREST Faculté Victor Segalen
+20, rue Duquesne - CS9383729238
+Brest Cedex 3, France
+
+**Due to the current COVID-19 pandemic, Mots-Machines will also propose ONLINE participation.**
+
+### Contact
+Website: [https://github.com/motsmachines/2021](https://github.com/motsmachines/2021) 
+
+All questions about submissions should be emailed to _mots dot machines at gmail dot com_ 
+
+
