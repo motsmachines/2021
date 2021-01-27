@@ -58,23 +58,23 @@ Submission template: https://ceurws.wordpress.com/2020/03/31/ceurws-publishes-ce
 Extended abstracts and PDF presentations will be published on the website. Selected papers will be considered to be published in the Proceedings. 
 
 ### Program Committee
-Liana Ermakova, HCTI, UBO
-Joanna Thornborrow, HCTI, UBO
-Élise Mathurin, HCTI, UBO
-Caroline Comacle, translator, UBO
-Pierre Chartier, HCTI, UBO
-Carole Lesimple, translator, UBO
-Alain Kerhervé, HCTI, UBO
+- Liana Ermakova, HCTI, UBO
+- Joanna Thornborrow, HCTI, UBO
+- Élise Mathurin, HCTI, UBO
+- Caroline Comacle, translator, UBO
+- Pierre Chartier, HCTI, UBO
+- Carole Lesimple, translator, UBO
+- Alain Kerhervé, HCTI, UBO
 
 ### Organizing committee
-Liana Ermakova, HCTI, UBO
-Joanna Thornborrow, HCTI, UBO
-Élise Mathurin, HCTI, UBO
-Caroline Comacle, translator, UBO
-Pierre Chartier, HCTI, UBO
-Carole Lesimple, translator, UBO
-Alain Kerhervé, HCTI, UBO
-Noémie Flood, HCTI, UBO
+- Liana Ermakova, HCTI, UBO
+- Joanna Thornborrow, HCTI, UBO
+- Élise Mathurin, HCTI, UBO
+- Caroline Comacle, translator, UBO
+- Pierre Chartier, HCTI, UBO
+- Carole Lesimple, translator, UBO
+- Alain Kerhervé, HCTI, UBO
+- Noémie Flood, HCTI, UBO
 
 ### Venue
 The workshop will be held at the University of Western Brittany, Faculty of Arts:
