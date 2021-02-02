@@ -2,9 +2,9 @@
 
 ### Important Dates
 
-Submissions: ~~7 February 2021~~14 February 2021
+Submissions: ~~7 February 2021~~ 14 February 2021
 
-Notifications: ~~9 February 2021~~16 February 2021
+Notifications: ~~9 February 2021~~ 16 February 2021
 
 Workshop: 5 March 2021 
 
