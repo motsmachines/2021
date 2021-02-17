@@ -52,7 +52,7 @@ Submission template: https://ceurws.wordpress.com/2020/03/31/ceurws-publishes-ce
 ### Invited Speakers
 - Tristan Miller, Research Scientist, Austrian Research Institute for Artificial Intelligence (OFAI), Vienna, Austria: "Human–computer interaction in pun translation"
 - Fabio Regattin, Assistant professor, Dipartimento di Lingue e letterature, comunicazione, formazione e società (DILL), Università degli Studi di Udine, Italy: “Incursion ludique dans la traduction automatique des jeux de mots”
-- Pavel Braslavsky, Senior researcher, Combinatorial Algebra Lab, Ural Federal University, Russia: “LOL NLP: a short survey of  computational humor”
+- Pavel Braslavski, Senior researcher, Combinatorial Algebra Lab, Ural Federal University, Russia: “LOL NLP: a short survey of  computational humor”
 - Farah Benamara, Associate Professor in computer science, Université Paul Sabatier, Toulouse, France: "Multilingual Irony Detection in Social Media"
 
 ### Publication
