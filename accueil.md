@@ -1,8 +1,11 @@
-<h1>Mots/Machines-2021: Les machines ont-elles le sens de l’humour ?</h1>
-<h2>Appel à communication</h2>
+# Mots/Machines-2021: Les machines ont-elles le sens de l’humour ?
+[Accueil](https://motsmachines.github.io/2021/accueil) | [Programme](https://motsmachines.github.io/2021/programme)
+------------ | -------------
 
-<li>Site Web de Mots/Machines-2021 : https://motsmachines.github.io/2021/</li>
-<li>Site de soumission : https://easychair.org/conferences/?conf=motsmachines2021</li>
+## Appel à communication
+
+* Site Web de Mots/Machines-2021 : https://motsmachines.github.io/2021/
+* Site de soumission : https://easychair.org/conferences/?conf=motsmachines2021
 
 <h2>Calendrier</h2>
 <p>Soumission des résumés et des articles : 7 février 2021
