@@ -38,19 +38,29 @@ Les communications pourront faire l’objet d’une publication après examen pa
 Liens:
 Système de soumission : https://easychair.org/conferences/?conf=motsmachines2021
 Format de soumission: https://ceurws.wordpress.com/2020/03/31/ceurws-publishes-ceurart-paper-style/ 
-Les thématiques visées sont les suivantes (sans que cette liste ne soit exhaustive) :
-Traduction de l’humour et de jeux de mots
-Interaction humain-machine dans la traduction de l’humour et de jeux de mots
-L’analyse de l’humour et de jeux de mots dans les réseaux sociaux
-Classification de l’humour
-Évaluation de l’humour/ des jeux de mots
-Détection / génération automatique de l’humour et de jeux de mots
-Erreurs dans la traduction de l’humour et de  jeux de mots
-Erreurs dans la traduction et leurs résultats comiques
-Limites  de la traduction automatique et des outils de TAO dans la traduction de l’humour et de  jeux de mots
+
+<h3>Thématiques</h3>
+<li>Traduction de l’humour et de jeux de mots</li>
+<li>Interaction humain-machine dans la traduction de l’humour et de jeux de mots</li>
+<li>L’analyse de l’humour et de jeux de mots dans les réseaux sociaux</li>
+<li>Classification de l’humour</li>
+<li>Évaluation de l’humour/ des jeux de mots</li>
+<li>Détection / génération automatique de l’humour et de jeux de mots</li>
+<li>Erreurs dans la traduction de l’humour et de  jeux de mots</li>
+<li>Erreurs dans la traduction et leurs résultats comiques</li>
+<li>Limites  de la traduction automatique et des outils de TAO dans la traduction de l’humour et de  jeux de mots</li>
 
 
-...
+<h2>Comité d'organisation</h2>
+- Liana Ermakova, HCTI, UBO
+- Joanna Thornborrow, HCTI, UBO
+- Élise Mathurin, HCTI, UBO
+- Caroline Comacle, translator, UBO
+- Pierre Chartier, HCTI, UBO
+- Carole Lesimple, translator, UBO
+- Alain Kerhervé, HCTI, UBO
+- Orlane Puchalski, étudiante, UBO
+
 <h2>Comité scientifique</h2>
 <li>L. Ermakova, MCF, Informatique, HCTI, UBO</li>
 <li>J. Thornborrow, Professeur émérite, Linguistique, HCTI, UBO</li>
