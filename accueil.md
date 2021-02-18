@@ -52,17 +52,17 @@ Limites  de la traduction automatique et des outils de TAO dans la traduction de
 
 ...
 <h2>Comité scientifique</h2>
-L. Ermakova, MCF, Informatique, HCTI, UBO
-J. Thornborrow, Professeur émérite, Linguistique, HCTI, UBO
-E. Mathurin, MCF, Linguistique, HCTI, UBO
-C. Comacle, traductrice indépendante, co-responsable du master Rédacteur/Traducteur UBO
-C. Lesimple, traductrice indépendante, intervenante en master Rédacteur/Traducteur UBO
-P. Chartier, doctorant, Analyse de discours médiés par Internet. HCTI, UBO 
-A. Kerhervé, Professeur des universités, Littérature et civilisation britanniques, HCTI, UBO
-Conférenciers invités
-Tristan Miller, Research Scientist, Austrian Research Institute for Artificial Intelligence (OFAI), Vienna, Austria: "Human–computer interaction in pun translation"
-Fabio Regattin, Assistant professor, Dipartimento di Lingue e letterature, comunicazione, formazione e società (DILL), Università degli Studi di Udine, Italy: “Incursion ludique dans la traduction automatique des jeux de mots”
-Pavel Braslavsky, Senior researcher, Combinatorial Algebra Lab, Ural Federal University, Russia: “LOL NLP: a short survey of  computational humor”
+<li>L. Ermakova, MCF, Informatique, HCTI, UBO</li>
+<li>J. Thornborrow, Professeur émérite, Linguistique, HCTI, UBO</li>
+<li>E. Mathurin, MCF, Linguistique, HCTI, UBO</li>
+<li>C. Comacle, traductrice indépendante, co-responsable du master Rédacteur/Traducteur UBO</li>
+<li>C. Lesimple, traductrice indépendante, intervenante en master Rédacteur/Traducteur UBO</li>
+<li>P. Chartier, doctorant, Analyse de discours médiés par Internet. HCTI, UBO</li>
+<li>A. Kerhervé, Professeur des universités, Littérature et civilisation britanniques, HCTI, UBO<li>
+	<h3>Conférenciers invités</h3>
+<li>Tristan Miller, Research Scientist, Austrian Research Institute for Artificial Intelligence (OFAI), Vienna, Austria: « Human–computer interaction in pun translation »</li>
+<li>Fabio Regattin, Assistant professor, Dipartimento di Lingue e letterature, comunicazione, formazione e società (DILL), Università degli Studi di Udine, Italy: « Incursion ludique dans la traduction automatique des jeux de mots »</li>
+<li>Pavel Braslavsky, Senior researcher, Combinatorial Algebra Lab, Ural Federal University, Russia: « LOL NLP: a short survey of  computational humor »</li>
 
 <h2>Lieu et accès</h2>
 <p>BREST Faculté Victor Segalen
