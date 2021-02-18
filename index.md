@@ -1,6 +1,6 @@
 ## Words/Machines-2021: Do machines have a sense of humor?
 
-[Accueil (FR)](https://motsmachines.github.io/2021/accueil) | Program
+[Accueil (FR)](https://motsmachines.github.io/2021/accueil)
 
 ### Important Dates
 
