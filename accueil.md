@@ -4,7 +4,7 @@
 <li>Site Web de Mots/Machines-2021 : https://motsmachines.github.io/2021/</li>
 <li>Site de soumission : https://easychair.org/conferences/?conf=motsmachines2021</li>
 
-<h2>Calendrier :</h2>
+<h2>Calendrier</h2>
 <p>Soumission des résumés et des articles : 7 février 2021
 Notification : 9 février 2021
 Journée d’étude: 5 mars 2021
@@ -22,7 +22,7 @@ tournent autour du ‘texte’. Ainsi,  la journée d’étude Mots-Machines à 
 <li>2020 : Traduction et sentiment : quel sens pour la machine ? (https://www.univ-brest.fr/www-live1-sl.univ-brest.fr/ViewPage.action?siteNodeId=29229&languageId=4)</li>
 
 
-<h2>Objectifs :</h2>
+<h2>Objectifs</h2>
 	
 Créer un lieu de dialogue entre les informaticiens, les linguistes et les traducteurs
 Promouvoir la recherche dans le milieu des étudiants
@@ -51,7 +51,7 @@ Limites  de la traduction automatique et des outils de TAO dans la traduction de
 
 
 ...
-<h2>Comité scientifique :</h2>
+<h2>Comité scientifique</h2>
 L. Ermakova, MCF, Informatique, HCTI, UBO
 J. Thornborrow, Professeur émérite, Linguistique, HCTI, UBO
 E. Mathurin, MCF, Linguistique, HCTI, UBO
