@@ -1,7 +1,6 @@
 # Programme Mots/Machines-2021
 
-[Accueil](https://motsmachines.github.io/2021/accueil) | [Programme](https://motsmachines.github.io/2021/programme)
-
+[Home (EN)](https://motsmachines.github.io/2021/) | [Accueil](https://motsmachines.github.io/2021/accueil) | [Programme](https://motsmachines.github.io/2021/programme)
 -------------------------
 
 ## Thématiques
