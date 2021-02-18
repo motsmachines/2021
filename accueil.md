@@ -3,10 +3,8 @@
 [Home (EN)](https://motsmachines.github.io/2021/) | [Accueil](https://motsmachines.github.io/2021/accueil) | [Programme](https://motsmachines.github.io/2021/programme)
 
 ## Appel à communication
-
-Site Web de Mots/Machines-2021 : https://motsmachines.github.io/2021/
-
-Site de soumission : https://easychair.org/conferences/?conf=motsmachines2021
+* Site Web de Mots/Machines-2021 : https://motsmachines.github.io/2021/
+* Site de soumission : https://easychair.org/conferences/?conf=motsmachines2021
 
 ## Calendrier
 
