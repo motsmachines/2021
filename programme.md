@@ -14,7 +14,8 @@
 * Erreurs dans la traduction de l’humour et de  jeux de mots
 * Erreurs dans la traduction et leurs résultats comiques
 * Limites  de la traduction automatique et des outils de TAO dans la traduction de l’humour et de  jeux de mots
-----------------------------
+
+-------------------------
 
 ## Comité scientifique
 * L. Ermakova, MCF, Informatique, HCTI, UBO
@@ -29,6 +30,8 @@
 * Tristan Miller, Research Scientist, Austrian Research Institute for Artificial Intelligence (OFAI), Vienna, Austria: « Human–computer interaction in pun translation »
 * Fabio Regattin, Assistant professor, Dipartimento di Lingue e letterature, comunicazione, formazione e società (DILL), Università degli Studi di Udine, Italy: « Incursion ludique dans la traduction automatique des jeux de mots »
 * Pavel Braslavsky, Senior researcher, Combinatorial Algebra Lab, Ural Federal University, Russia: « LOL NLP: a short survey of  computational humor »
+
+-------------------------
 
 ## Comité d'organisation
 * Liana Ermakova, HCTI, UBO
