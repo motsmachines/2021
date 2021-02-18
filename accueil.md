@@ -58,7 +58,7 @@ Limites  de la traduction automatique et des outils de TAO dans la traduction de
 <li>C. Comacle, traductrice indépendante, co-responsable du master Rédacteur/Traducteur UBO</li>
 <li>C. Lesimple, traductrice indépendante, intervenante en master Rédacteur/Traducteur UBO</li>
 <li>P. Chartier, doctorant, Analyse de discours médiés par Internet. HCTI, UBO</li>
-<li>A. Kerhervé, Professeur des universités, Littérature et civilisation britanniques, HCTI, UBO<li>
+<li>A. Kerhervé, Professeur des universités, Littérature et civilisation britanniques, HCTI, UBO</li>
 	
 <h3>Conférenciers invités</h3>
 <li>Tristan Miller, Research Scientist, Austrian Research Institute for Artificial Intelligence (OFAI), Vienna, Austria: « Human–computer interaction in pun translation »</li>
