@@ -66,6 +66,7 @@ Extended abstracts and PDF presentations will be published on the website. Selec
 - Pierre Chartier, HCTI, UBO
 - Carole Lesimple, translator, UBO
 - Alain Kerhervé, HCTI, UBO
+- Orlane Puchalski, student, UBO
 
 ### Organizing committee
 - Liana Ermakova, HCTI, UBO
