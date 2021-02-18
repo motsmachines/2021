@@ -1,6 +1,8 @@
 # Mots/Machines-2021: Les machines ont-elles le sens de l’humour ?
 
+
 [Home (EN)](https://motsmachines.github.io/2021/) | [Accueil](https://motsmachines.github.io/2021/accueil) | [Programme](https://motsmachines.github.io/2021/programme)
+
 
 ## Appel à communication
 
