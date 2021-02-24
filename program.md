@@ -2,11 +2,11 @@
 
 [Home](https://motsmachines.github.io/2021/) | [Call for Papers](https://motsmachines.github.io/2021/CFP) | [Program ](https://motsmachines.github.io/2021/program)| [Registration](https://motsmachines.github.io/2021/registration)
 
->* 08:30	- 09:00    *Welcome session*
+* 08:30	- 09:00    *Welcome session*
 
->* 09:00	- 09:45   **Pavel Braslavski**	LOL NLP: a short survey of computational humor
+* 09:00	- 09:45   **Pavel Braslavski**	LOL NLP: a short survey of computational humor
 
->* 09:45	- 10:30	   **Tristan Miller**	Human–computer Interaction in Pun Translation
+* 09:45	- 10:30	   **Tristan Miller**	Human–computer Interaction in Pun Translation
 
 >* 10:30	- 10:45	   *Coffee break*
 
