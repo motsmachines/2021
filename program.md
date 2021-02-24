@@ -1,4 +1,6 @@
 # Mots/Machines #3
+<br>
+<br>
 
 [Home](https://motsmachines.github.io/2021/) | [Call for Papers](https://motsmachines.github.io/2021/CFP) | [Program ](https://motsmachines.github.io/2021/program) | [Organizers](https://motsmachines.github.io/2021/organizers) | [Registration](https://motsmachines.github.io/2021/registration)
 
@@ -33,9 +35,9 @@
  
 * 15:30	- 15:45	   *Coffee break*
 
-* 15:45	- 16:15	   **Anca Christine Pascu	Modelling** a software of semantic text analysis
+* 15:45	- 16:15	   **Benoît Jeanjean**	La traduction des jeux de mots sur les noms propres dans les œuvres de saint Jérôme
 
-* 16:15	- 16:45	   **Benoît Jeanjean**	La traduction des jeux de mots sur les noms propres dans les œuvres de saint Jérôme
+* 16:15	- 16:45	   **Anca Christine Pascu	Modelling** a software of semantic text analysis
 
 * 16:45	- 17:15	   **Gaël Guibon**, **Hosni Seffih**, **Anton Firsov** and **Guillaume Le Noé-Bienvenu**	Multilingual Fake News Detection with Satire
 
