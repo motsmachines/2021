@@ -5,7 +5,7 @@
 
 
 
-* 08:30	- 09:00    *Welcome session*
+### 08:30	- 09:00    *Welcome session*
 
 ## Invited speakers: 
 
@@ -19,7 +19,7 @@
 
 * 11:30	- 12:15	   **Farah Benamara**	Multilingual Irony Detection in Social Media
  
-* 12:15	- 13:30	   *Lunch*
+### 12:15	- 13:30	   *Lunch*
 
 ## Panel session:
 
@@ -39,6 +39,6 @@
 
 * 16:45	- 17:15	   **Gaël Guibon**, **Hosni Seffih**, **Anton Firsov** and **Guillaume Le Noé-Bienvenu**	Multilingual Fake News Detection with Satire
 
-* 17:15	- 17:30    *Closing session*
+### 17:15	- 17:30    *Closing session*
 
-* 17:30	- 18:15	   *Concert*
+### 17:30	- 18:15	   *Concert*
