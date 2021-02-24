@@ -7,7 +7,9 @@
 
 * 08:30	- 09:00    *Welcome session*
 
-* 09:00	- 09:45   **Pavel Braslavski** (invited talks)	LOL NLP: a short survey of computational humor
+## Invited speakers: 
+
+* 09:00	- 09:45   **Pavel Braslavski** LOL NLP: a short survey of computational humor
 
 * 09:45	- 10:30	   **Tristan Miller**	Human–computer Interaction in Pun Translation
 
@@ -18,6 +20,8 @@
 * 11:30	- 12:15	   **Farah Benamara**	Multilingual Irony Detection in Social Media
  
 * 12:15	- 13:30	   *Lunch*
+
+## Panel session:
 
 * 13:30	- 14:00	   **Alba Jiménez Espejo**	Machine Translation on the Verge of a Laughing Fit: A Comparative Study Between Human and Machine Translation in Pedro Almodóvar’s comedies
 
