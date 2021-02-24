@@ -1,3 +1,5 @@
+[Home](https://motsmachines.github.io/2021/) | [Call for Papers](https://motsmachines.github.io/2021/CFP) | [Program ](https://motsmachines.github.io/2021/program)| [Registration](https://motsmachines.github.io/2021/registration)
+
 ## Words/Machines-2021: Do machines have a sense of humor?
 
 [Accueil (FR)](https://motsmachines.github.io/2021/accueil)
