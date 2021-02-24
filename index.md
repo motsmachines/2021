@@ -1,2 +1,2 @@
-![Mots/Machines #3](/affiche.pdf)
+![Mots/Machines #3](/Affiche.pdf)
 
