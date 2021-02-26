@@ -1,7 +1,7 @@
 # Mots/Machines #3
 <br>
 
-[Accueil](https://motsmachines.github.io/2021/accueil) | [Submissions](https://motsmachines.github.io/2021/appel) | [Programme](https://motsmachines.github.io/2021/programme) | [Organisation](https://motsmachines.github.io/2021/organisation) | [S'enregistrer](https://motsmachines.github.io/2021/enregistrer)
+[Accueil](https://motsmachines.github.io/2021/accueil) | [Participer](https://motsmachines.github.io/2021/participer) | [Programme](https://motsmachines.github.io/2021/programme) | [Organisation](https://motsmachines.github.io/2021/organisation) | [S'enregistrer](https://motsmachines.github.io/2021/enregistrer)
 
 <br>
 <br>
