@@ -12,7 +12,7 @@
 
 <br>
 
-<h2 style="font-family=helvetica">Appel à communication</h2>
+<h2>Appel à communication</h2>
 
 
 <br> 
