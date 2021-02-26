@@ -1,6 +1,6 @@
 # Programme Mots/Machines-2021
 
-[Home (EN)](https://motsmachines.github.io/2021/) | [Accueil](https://motsmachines.github.io/2021/accueil) | [Programme](https://motsmachines.github.io/2021/programme)
+[Accueil](https://motsmachines.github.io/2021/accueil) | [Participations](https://motsmachines.github.io/2021/participations) | [Programme](https://motsmachines.github.io/2021/programme) | [Organisation](https://motsmachines.github.io/2021/organisation) | [S'enregistrer](https://motsmachines.github.io/2021/enregistrer)
 
 ## Thématiques
 * Traduction de l’humour et de jeux de mots
