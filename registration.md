@@ -11,3 +11,7 @@
 ### ONLINE participation registration: 
 **[https://www.eventbrite.fr/e/billets-motsmachines-3-online-142935115779](https://www.eventbrite.fr/e/billets-motsmachines-3-online-142935115779)**
 
+<br>
+
+The link for the online meeting will be available after the registration on the EventBrite website.
+
