@@ -43,8 +43,8 @@ Nous acceptons les travaux originaux, les résumés étendus avec les référenc
 Les communications pourront faire l’objet d’une publication après examen par le comité scientifique.
 
 Liens:
-Système de soumission : [https://easychair.org/conferences/?conf=motsmachines2021](https://easychair.org/conferences/?conf=motsmachines2021)
-Format de soumission: [https://ceurws.wordpress.com/2020/03/31/ceurws-publishes-ceurart-paper-style/](https://ceurws.wordpress.com/2020/03/31/ceurws-publishes-ceurart-paper-style/)
+- Système de soumission : [https://easychair.org/conferences/?conf=motsmachines2021](https://easychair.org/conferences/?conf=motsmachines2021)
+- Format de soumission: [https://ceurws.wordpress.com/2020/03/31/ceurws-publishes-ceurart-paper-style/](https://ceurws.wordpress.com/2020/03/31/ceurws-publishes-ceurart-paper-style/)
 
 ## Thématiques
 * Traduction de l’humour et de jeux de mots
