@@ -46,3 +46,14 @@ Les communications pourront faire l’objet d’une publication après examen pa
 Liens:
 Système de soumission : https://easychair.org/conferences/?conf=motsmachines2021
 Format de soumission: https://ceurws.wordpress.com/2020/03/31/ceurws-publishes-ceurart-paper-style/
+
+## Thématiques
+* Traduction de l’humour et de jeux de mots
+* Interaction humain-machine dans la traduction de l’humour et de jeux de mots
+* L’analyse de l’humour et de jeux de mots dans les réseaux sociaux
+* Classification de l’humour
+* Évaluation de l’humour/ des jeux de mots
+* Détection / génération automatique de l’humour et de jeux de mots
+* Erreurs dans la traduction de l’humour et de  jeux de mots
+* Erreurs dans la traduction et leurs résultats comiques
+* Limites  de la traduction automatique et des outils de TAO dans la traduction de l’humour et de  jeux de mots
