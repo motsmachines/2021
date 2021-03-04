@@ -42,7 +42,7 @@
 
 * 16:15	- 16:45	   **Benoît Jeanjean**	La traduction des jeux de mots sur les noms propres dans les œuvres de saint Jérôme **[[article]](submissions/Mots-Machines-2021_paper_9.pdf)**
 
-* 16:45	- 17:15	   **Gaël Guibon**, **Hosni Seffih**, **Anton Firsov** and **Guillaume Le Noé-Bienvenu**	Multilingual Fake News Detection with Satire **[[article]](submissions/Mots-Machines-2021_paper_12.pdf)** **[[presentation]](submissions/Multilingual Fake News Detection with Satire.pdf)
+* 16:45	- 17:15	   **Gaël Guibon**, **Hosni Seffih**, **Anton Firsov** and **Guillaume Le Noé-Bienvenu**	Multilingual Fake News Detection with Satire **[[article]](submissions/Mots-Machines-2021_paper_12.pdf)** **[[presentation]](submissions/Multilingual Fake News Detection with Satire.pdf)**
 
 ### 17:15	- 17:30    Closing session
 
