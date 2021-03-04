@@ -28,7 +28,7 @@
 
 ## Panel session:
 
-* 13:30	- 14:00	   **Alba Jiménez Espejo**	Machine Translation on the Verge of a Laughing Fit: A Comparative Study Between Human and Machine Translation in Pedro Almodóvar’s comedies **[[article]](submissions/Mots-Machines-2021_paper_3.pdf)** **[[video]]**
+* 13:30	- 14:00	   **Alba Jiménez Espejo**	Machine Translation on the Verge of a Laughing Fit: A Comparative Study Between Human and Machine Translation in Pedro Almodóvar’s comedies **[[article]](submissions/Mots-Machines-2021_paper_3.pdf)** **[[presentation]](submissions/Machine-Translation-At-The-Verge-Of-A-Laughing-Fit.pdf)** **[[video]]**
 
 * 14:00	- 14:30	   **Camille Saraiva**	La traduction de l’humour dans les jeux vidéo **[[article]](submissions/Mots-Machines-2021_paper_2.pdf)**
 
