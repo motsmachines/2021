@@ -34,7 +34,7 @@
 
 * 14:30	- 15:00	   **Alice Pennors**, Amstratgraph - CAE 29 Chrysalide, France.	Some limits for social listening and sentimentanalysis in regards to humor : an iceberg of culturaland technological subtleties behind Japanese slangand emoticons **[[article]](submissions/Mots-Machines-2021_paper_8.pdf)**
 
-* 15:00	- 15:30	   **Yuliya Samofalova**, **Andrea Catellani** and **Louise-Amélie Cougnon**, Université Catholique de Louvain, Belgium.	Greenpeace memes for communicating climate change **[[article]](submissions/Mots-Machines-2021_paper_10.pdf)**
+* 15:00	- 15:30	   **Yuliya Samofalova**, **Andrea Catellani** and **Louise-Amélie Cougnon**, Université Catholique de Louvain, Belgium.	Greenpeace memes for communicating climate change **[[article]](submissions/Mots-Machines-2021_paper_10.pdf)** **[[presentation]](submissions/Presentation-Yuliya-Samofalova.pdf)**
  
 * 15:30	- 15:45	   *Coffee break*
 
