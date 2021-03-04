@@ -16,7 +16,7 @@
 
 * 09:00	- 09:45   **Pavel Braslavski** LOL NLP: a short survey of computational humor
 
-* 09:45	- 10:30	   **Tristan Miller**	Human–computer Interaction in Pun Translation
+* 09:45	- 10:30	   **Tristan Miller**	Human–computer Interaction in Pun Translation **[[presentation]](submissions/PunCAT.pdf)**
 
 * 10:30	- 10:45	   *Coffee break*
 
