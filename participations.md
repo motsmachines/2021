@@ -10,7 +10,7 @@
 
 <br>
 
-Site de soumission : https://easychair.org/conferences/?conf=motsmachines2021
+Site de soumission : (https://easychair.org/conferences/?conf=motsmachines2021)
 
 ## Calendrier
 
