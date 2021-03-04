@@ -14,11 +14,11 @@ Site de soumission : [https://easychair.org/conferences/?conf=motsmachines2021](
 
 ## Calendrier
 
-Soumission des résumés et des articles : 14 février 2021
+**Soumission des résumés et des articles : 14 février 2021**
 
-Notification : 16 février 2021
+**Notification : 16 février 2021**
 
-Journée d’étude : 5 mars 2021
+**Journée d’étude : 5 mars 2021**
 
 Le traitement des données textuelles par les machines, telles que la transmission massive d’informations par la voie des médias sociaux, le traitement automatique du langage, la textométrie et la traduction automatique par les outils de plus en plus performants, sont maintenant incontournables dans le quotidien de tous les métiers qui tournent autour du ‘texte’. Ainsi, la journée d’étude Mots-Machines à pour l’objectif d’analyser la place et le rôle de l’humain et des machines dans la création et transformation des textes.
 
