@@ -14,7 +14,7 @@
 
 ## Conférenciers invités : 
 
-* 09:00	- 09:45   **Pavel Braslavski**, Ural Federal University, Russie. LOL NLP: a short survey of computational humor
+* 09:00	- 09:45   **Pavel Braslavski**, Ural Federal University, Russie. LOL NLP: a short survey of computational humor **[[résumé]](submissions/BraslavskiAbstract.pdf)**
 
 * 09:45	- 10:30	   **Tristan Miller**, University of Vienna, Autriche. Human–computer Interaction in Pun Translation **[[résumé]](submissions/MillerAbstract.pdf)** **[[présentation]](submissions/PunCAT.pdf)**
 
@@ -22,7 +22,7 @@
 
 * 10:45	- 11:30	   **Fabio Regattin**, Università degli Studi di Udine, Italie.	Traduction automatique et jeux de mots : l’incursion (ludique) d’un inculte **[[article]](submissions/Mots-Machines-2021_paper_5.pdf)**
 
-* 11:30	- 12:15	   **Farah Benamara**, IRIT, France.	Multilingual Irony Detection in Social Media
+* 11:30	- 12:15	   **Farah Benamara**, IRIT, France.	Multilingual Irony Detection in Social Media **[[résumé]](submissions/BenamaraAbstract.pdf)**
  
 ### 12:15	- 13:30	   Repas
 
