@@ -38,7 +38,7 @@
  
 * 15:30	- 15:45	   *Coffee break*
 
-* 15:45	- 16:15	   **Anca Christine Pascu**	Modelling a software of semantic text analysis **[[article]](submissions/Mots-Machines-2021_paper_4.pdf)** **[[presentation]](submissions/pascu-play on words.pdf)**
+* 15:45	- 16:15	   **Anca Christine Pascu**	Modelling a software of semantic text analysis **[[article]](submissions/Mots-Machines-2021_paper_4.pdf)** **[[presentation]](submissions/pascu-play-on-words.pdf)**
 
 * 16:15	- 16:45	   **Benoît Jeanjean**	La traduction des jeux de mots sur les noms propres dans les œuvres de saint Jérôme **[[article]](submissions/Mots-Machines-2021_paper_9.pdf)**
 
