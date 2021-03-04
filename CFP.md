@@ -8,8 +8,6 @@
 
 ## Words/Machines-2021: Do machines have a sense of humor?
 
-[Accueil (FR)](https://motsmachines.github.io/2021/accueil)
-
 ### Important Dates
 
 Submissions: ~~7 February 2021~~ 14 February 2021
