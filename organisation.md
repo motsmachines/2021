@@ -4,8 +4,6 @@
 
 [Accueil](https://motsmachines.github.io/2021/accueil) | [Participations](https://motsmachines.github.io/2021/participations) | [Programme](https://motsmachines.github.io/2021/programme) | [Organisation](https://motsmachines.github.io/2021/organisation) | [S'inscrire](https://motsmachines.github.io/2021/inscrire) | [<img src="EN.png" width="20">](https://motsmachines.github.io/2021)
 
-
-
 <br>
 
 ## Comité scientifique
@@ -17,12 +15,10 @@
 * P. Chartier, doctorant, Analyse de discours médiés par Internet. HCTI, UBO
 * A. Kerhervé, Professeur des universités, Littérature et civilisation britanniques, HCTI, UBO
 	
-### Conférenciers invités
+## Conférenciers invités
 * Tristan Miller, Research Scientist, Austrian Research Institute for Artificial Intelligence (OFAI), Vienna, Austria: « Human–computer interaction in pun translation »
 * Fabio Regattin, Assistant professor, Dipartimento di Lingue e letterature, comunicazione, formazione e società (DILL), Università degli Studi di Udine, Italy: « Incursion ludique dans la traduction automatique des jeux de mots »
 * Pavel Braslavsky, Senior researcher, Combinatorial Algebra Lab, Ural Federal University, Russia: « LOL NLP: a short survey of  computational humor »
-
--------------------------
 
 ## Comité d'organisation
 * Liana Ermakova, HCTI, UBO
