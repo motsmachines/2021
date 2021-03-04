@@ -30,7 +30,7 @@
 
 * 13:30	- 14:00	   **Alba Jiménez Espejo**	Machine Translation on the Verge of a Laughing Fit: A Comparative Study Between Human and Machine Translation in Pedro Almodóvar’s comedies **[[article]](submissions/Mots-Machines-2021_paper_3.pdf)** **[[presentation]](submissions/Machine-Translation-At-The-Verge-Of-A-Laughing-Fit.pdf)**
 
-* 14:00	- 14:30	   **Camille Saraiva**	La traduction de l’humour dans les jeux vidéo **[[article]](submissions/Mots-Machines-2021_paper_2.pdf)**
+* 14:00	- 14:30	   **Camille Saraiva**	La traduction de l’humour dans les jeux vidéo **[[article]](submissions/Mots-Machines-2021_paper_2.pdf)** **[[presentation]](submissions/Saraiva-présentation.pdf)**
 
 * 14:30	- 15:00	   **Alice Pennors**	Some limits for social listening and sentimentanalysis in regards to humor : an iceberg of culturaland technological subtleties behind Japanese slangand emoticons **[[article]](submissions/Mots-Machines-2021_paper_8.pdf)**
 
