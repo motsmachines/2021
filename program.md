@@ -16,7 +16,7 @@
 
 * 09:00	- 09:45   **Pavel Braslavski**, Ural Federal University, Russia. LOL NLP: a short survey of computational humor **[[abstract]](submissions/BraslavskiAbstract.pdf)**
 
-* 09:45	- 10:30	   **Tristan Miller**, University of Vienna, Austria.	Human–computer Interaction in Pun Translation **[[abstract]](submissions/MillerAbstract.pdf)** **[[presentation]](submissions/PunCAT.pdf)**
+* 09:45	- 10:30	   **Tristan Miller**, Austrian Research Institute for Artificial Intelligence, Austria.	Human–computer Interaction in Pun Translation **[[abstract]](submissions/MillerAbstract.pdf)** **[[presentation]](submissions/PunCAT.pdf)**
 
 * 10:30	- 10:45	   *Coffee break*
 
