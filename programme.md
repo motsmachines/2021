@@ -46,4 +46,4 @@
 
 ### 17:15	- 17:30    Clôture
 
-### 17:30	- 18:15	   Concert: Interpretation of the songs of  Boby Lapointe by the band  « La Souris Noire »  [https://youtu.be/o48Ot6aq3LM](https://youtu.be/o48Ot6aq3LM)
+### 17:30	- 18:15	   Concert: Boby Lapointe par le groupe  « La Souris Noire »  [https://youtu.be/o48Ot6aq3LM](https://youtu.be/o48Ot6aq3LM)
