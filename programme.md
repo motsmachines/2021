@@ -47,4 +47,4 @@
 ### 17:15	- 17:30    Clôture
 
 ### 17:30	- 18:15	   Concert: 
-Boby Lapointe par le groupe  « La Souris Noire »  [https://youtu.be/p8GWL2Wpbqo](https://youtu.be/p8GWL2Wpbqo)
+Boby Lapointe par le groupe  « La Souris Noire »  [https://youtu.be/x51emeNMQYA](https://youtu.be/x51emeNMQYA)
