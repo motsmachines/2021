@@ -6,7 +6,7 @@
 
 <br>
 
-## Words/Machines-2021: Do machines have a sense of humor?
+## Call for Papers: Do machines have a sense of humor?
 
 ### Important Dates
 
