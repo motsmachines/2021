@@ -10,7 +10,7 @@
 
 Site de soumission : [https://easychair.org/conferences/?conf=motsmachines2021](https://easychair.org/conferences/?conf=motsmachines2021)
 
-## Calendrier
+### Calendrier
 
 **Soumission des résumés et des articles : 14 février 2021**
 
@@ -29,7 +29,7 @@ Les thématiques des années précédentes étaient :
 * 2019 : la place et le rôle de l’humain dans la création, transmission, transcréation et transformation des textes ([https://www.univ-brest.fr/hcti/menu/Actualites/Archives/Mots-Machines](https://www.univ-brest.fr/hcti/menu/Actualites/Archives/Mots-Machines))
 * 2020 : Traduction et sentiment : quel sens pour la machine ? ([https://www.univ-brest.fr/www-live1-sl.univ-brest.fr/ViewPage.action?siteNodeId=29229&languageId=4](https://www.univ-brest.fr/www-live1-sl.univ-brest.fr/ViewPage.action?siteNodeId=29229&languageId=4))
 
-## Détails du format des soumissions
+### Détails du format des soumissions
 
 Les soumissions, en français ou en anglais, au format pdf exclusivement, devront être déposées via  EasyChair  en respectant le format  CEURART 1-colonne.
 Nous acceptons les travaux originaux, les résumés étendus avec les références des articles déjà publiés, les revues littéraires, les travaux de positionnement, les travaux en cours, les résultats négatifs. Il est possible de soumettre des articles dans 3 formats :
@@ -44,7 +44,7 @@ Liens:
 - Système de soumission : [https://easychair.org/conferences/?conf=motsmachines2021](https://easychair.org/conferences/?conf=motsmachines2021)
 - Format de soumission: [https://ceurws.wordpress.com/2020/03/31/ceurws-publishes-ceurart-paper-style/](https://ceurws.wordpress.com/2020/03/31/ceurws-publishes-ceurart-paper-style/)
 
-## Thématiques
+### Thématiques
 * Traduction de l’humour et de jeux de mots
 * Interaction humain-machine dans la traduction de l’humour et de jeux de mots
 * L’analyse de l’humour et de jeux de mots dans les réseaux sociaux
