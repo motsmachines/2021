@@ -8,8 +8,6 @@
 
 ## Program
 
-<br>
-
 ### 08:30	- 09:00    Welcome session
 
 ### Invited speakers: 
