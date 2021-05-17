@@ -6,7 +6,7 @@
 
 <br>
 
-## Appel à communication
+## Appel à communication : Les machines ont-elles le sens de l'humour ?
 
 Site de soumission : [https://easychair.org/conferences/?conf=motsmachines2021](https://easychair.org/conferences/?conf=motsmachines2021)
 
