@@ -5,7 +5,7 @@
 
 <br> 
 
-# Words/Machines-2021: Do machines have a sense of humor?
+# Do machines have a sense of humor?
 
 ![Mots/Machines #3](Affiche-1.jpg)
 
