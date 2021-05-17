@@ -1,7 +1,7 @@
 # Mots/Machines #3
 <br>
 
-[Home](https://motsmachines.github.io/2021/) | [Call for Papers](https://motsmachines.github.io/2021/CFP) | [Program ](https://motsmachines.github.io/2021/program) | [Organizers](https://motsmachines.github.io/2021/organizers) | [Registration](https://motsmachines.github.io/2021/registration) | [<img src="FR.png" width="20">](https://motsmachines.github.io/2021/accueil)
+[Home](https://motsmachines.github.io/2021/en) | [Call for Papers](https://motsmachines.github.io/2021/en/cfp) | [Program ](https://motsmachines.github.io/2021/en/program) | [Organizers](https://motsmachines.github.io/2021/en/orga) | [Registration](https://motsmachines.github.io/2021/en/registration) | [<img src="FR.png" width="20">](https://motsmachines.github.io/2021/fr)
 
 <br>
 <br>
