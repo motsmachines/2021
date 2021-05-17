@@ -10,7 +10,7 @@
 
 ### 08:30	- 09:00    Accueil
 
-## Conférenciers invités : 
+### Conférenciers invités : 
 
 * 09:00	- 09:45   **Pavel Braslavski**, Ural Federal University, Russie. LOL NLP: a short survey of computational humor **[[résumé]](submissions/BraslavskiAbstract.pdf)**
 
@@ -24,7 +24,7 @@
  
 ### 12:15	- 13:30	   Repas
 
-## Session de groupe :
+### Session de groupe :
 
 * 13:30	- 14:00	   **Alba Jiménez Espejo**, Universidad Autónoma de Barcelona, Espagne.	Machine Translation on the Verge of a Laughing Fit: A Comparative Study Between Human and Machine Translation in Pedro Almodóvar’s comedies **[[article]](submissions/Mots-Machines-2021_paper_3.pdf)** **[[présentation]](submissions/Machine-Translation-At-The-Verge-Of-A-Laughing-Fit.pdf)**
 
