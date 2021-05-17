@@ -20,9 +20,9 @@ Nous encourageons également la participation en ligne vue la situation sanitair
 
 ## Contacts
 
-Website: https://motsmachines.github.io/2021/
+Site Web : https://motsmachines.github.io/2021/
 
-E-mail: mots.machines@gmail.com
+E-mail : mots.machines@gmail.com
 
 
 ## Objectifs
