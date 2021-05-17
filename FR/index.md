@@ -16,7 +16,7 @@ BREST Faculté Victor Segalen
 
 Brest Cedex 3, France
 
-Nous encourageons également la participation en ligne vue la situation sanitaire.
+Nous encourageons également la participation en ligne au vu de la situation sanitaire.
 
 ## Contacts
 
