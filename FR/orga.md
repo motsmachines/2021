@@ -6,6 +6,8 @@
 
 <br>
 
+## Organisation
+
 ### Invited Speakers
 - Tristan Miller, Research Scientist, Austrian Research Institute for Artificial Intelligence (OFAI), Vienna, Austria: "Human–computer interaction in pun translation"
 - Fabio Regattin, Assistant professor, Dipartimento di Lingue e letterature, comunicazione, formazione e società (DILL), Università degli Studi di Udine, Italy: “Incursion ludique dans la traduction automatique des jeux de mots”
