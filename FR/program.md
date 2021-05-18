@@ -17,7 +17,7 @@
 
 * 10:30	- 10:45	   *Pause café*
 
-* 10:45	- 11:30	   **Fabio Regattin**, Università degli Studi di Udine, Italie.	Traduction automatique et jeux de mots : l’incursion (ludique) d’un inculte **[[article]](submissions/Mots-Machines-2021_paper_5.pdf)**
+* 10:45	- 11:30	   **Fabio Regattin**, Università degli Studi di Udine, Italie.	Traduction automatique et jeux de mots : l’incursion (ludique) d’un inculte **[[article]](submissions/Mots-Machines-2021_paper_5.pdf)** **[[présentation]](submissions/regattin_presentation.pdf)**
 
 * 11:30	- 12:15	   **Farah Benamara**, IRIT, France.	Multilingual Irony Detection in Social Media **[[résumé]](submissions/BenamaraAbstract.pdf)** **[[presentation]](submissions/Benamara-presentation.pdf)**
  
