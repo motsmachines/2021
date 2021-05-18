@@ -2,7 +2,7 @@
 
 <br>
 
-[Home](https://motsmachines.github.io/2021/en) | [Call for Papers](https://motsmachines.github.io/2021/en/cfp) | [Program](https://motsmachines.github.io/2021/en/program) | [Organizers](https://motsmachines.github.io/2021/en/orga) | [Registration](https://motsmachines.github.io/2021/en/registration) | [<img src="FR.png" width="20">](https://motsmachines.github.io/2021/FR)
+[Home](https://motsmachines.github.io/2021/en) | [Call for Papers](https://motsmachines.github.io/2021/en/cfp) | [Program](https://motsmachines.github.io/2021/en/program) | [Organizers](https://motsmachines.github.io/2021/en/orga) | [Registration](https://motsmachines.github.io/2021/en/registration) | [<img src="FR.png" width="20">](https://motsmachines.github.io/2021/fr)
 
 <br>
 
