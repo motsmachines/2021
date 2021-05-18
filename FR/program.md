@@ -11,7 +11,7 @@
 
 ### Conférenciers invités : 
 
-* 09:00	- 09:45   **Pavel Braslavski**, Ural Federal University, Russie. LOL NLP: a short survey of computational humor **[[résumé]](submissions/BraslavskiAbstract.pdf)**
+* 09:00	- 09:45   **Pavel Braslavski**, Ural Federal University, Russie. LOL NLP: a short survey of computational humor **[[résumé]](submissions/Braslavski_abstract.pdf)** **[[présentation]](submissions/Braslavski_presentation.pdf)**
 
 * 09:45	- 10:30	   **Tristan Miller**, Austrian Research Institute for Artificial Intelligence, Autriche. Human–computer Interaction in Pun Translation **[[résumé]](submissions/MillerAbstract.pdf)** **[[présentation]](submissions/PunCAT.pdf)**
 
