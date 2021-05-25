@@ -23,6 +23,10 @@ Due to the current COVID-19 pandemic, Mots-Machines will also propose ONLINE par
 
 ## Contact
 
-Website: https://motsmachines.github.io/2021/ 
+2019 Website: https://motsmachines.github.io/2019
+
+2020 Website: https://motsmachines.github.io/2020
+
+2021 Website: https://motsmachines.github.io/2021
 
 All questions about submissions should be emailed to mots.machines@gmail.com
