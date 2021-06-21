@@ -1,7 +1,7 @@
 # SimpleText@CLEF-2021 Call for papers
 
-<button>[Home](https://simpletext-madics.github.io/2021/clef/en)</button> | <button>[Call for papers](https://simpletext-madics.github.io/2021/clef/en/CFP)</button> | <button>[Important dates](https://simpletext-madics.github.io/2021/clef/en/dates)</button> | <button>[Pilot tasks](https://simpletext-madics.github.io/2021/clef/en/tasks)</button>  
-<button>[Program](https://simpletext-madics.github.io/2021/clef/en/program)</button> | <button>[Publications](https://simpletext-madics.github.io/2021/clef/en/publications)</button> | <button>[Organisers](https://simpletext-madics.github.io/2021/clef/en/organisers)</button> | <button>[Contact](https://simpletext-madics.github.io/2021/clef/en/contact)</button> | <button>[<img src="FR.png" width="20">](https://simpletext-madics.github.io/2021/clef/fr/task1)</button>
+[Home](https://simpletext-madics.github.io/2021/clef/en) | [Call for papers](https://simpletext-madics.github.io/2021/clef/en/CFP) | [Important dates](https://simpletext-madics.github.io/2021/clef/en/dates) | [Pilot tasks](https://simpletext-madics.github.io/2021/clef/en/tasks)  
+[Program](https://simpletext-madics.github.io/2021/clef/en/program) | [Publications](https://simpletext-madics.github.io/2021/clef/en/publications) | [Organisers](https://simpletext-madics.github.io/2021/clef/en/organisers) | [Contact](https://simpletext-madics.github.io/2021/clef/en/contact) | <button>[<img src="FR.png" width="20">](https://simpletext-madics.github.io/2021/clef/fr/task1)</button>
 
 ---
 
