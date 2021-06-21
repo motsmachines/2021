@@ -20,11 +20,6 @@ We invite you to submit both automatic and manual runs! Manual intervention shou
 ---
 ---
 
-
-Lorem ipsum non tincidunt nunc erat in magna. Nulla arcu mauris, faucibus et eros et, elementum ornare eros. Mauris in laoreet odio. Vivamus nec dapibus libero, at ullamcorper nulla.[^1]
-
-[^1]: ok
-
 <details>
 <summary>Titre</summary>
 <br>
@@ -36,4 +31,13 @@ Blabla
 <br>
 Blabla
 </details>
+
+---
+---
+
+Lorem ipsum non tincidunt nunc erat in magna. Nulla arcu mauris, faucibus et eros et, elementum ornare eros. Mauris in laoreet odio. Vivamus nec dapibus libero, at ullamcorper nulla.[^1]
+
+[^1]: ok
+
+
 
