@@ -43,7 +43,7 @@ For this edition queries are a selection of recent n press titles from The Guard
 
 <br>
 
-[<img src="next.png" width="30"> PILOT TASK 1: SELECTING PASSAGES TO INCLUDE IN A SIMPLIFIED SUMMARY](https://simpletext-madics.github.io/2021/clef/en/task1)
+[<img src="next.png" width="30"> PILOT TASK 1](https://simpletext-madics.github.io/2021/clef/en/task1)
 
 
 
