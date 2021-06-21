@@ -15,10 +15,9 @@ Information supplémentaire
 
     ok le bloc
     
-okokokokok [^1] okokookok [2] et okok [^2]
+okokokokok [^1] et okok [^2]
 
 [^1]: ok
-[2]: ok
 [^2]: ok
     
 ??? info "A propos des _admonitions_"
