@@ -15,7 +15,7 @@ We invite you to submit both automatic and manual runs! Manual intervention shou
 
 <br>
 
-[<img src="next.png" width="30" vertical-align="middle"> PILOT TASK 1b](https://simpletext-madics.github.io/2021/clef/en/task1)
+[<img src="next.png" width="30" vertical-align="middle"> PILOT TASK 1](https://simpletext-madics.github.io/2021/clef/en/task1)
 
 ---
 ---
@@ -24,7 +24,3 @@ We invite you to submit both automatic and manual runs! Manual intervention shou
 Lorem ipsum non tincidunt nunc erat in magna. Nulla arcu mauris, faucibus et eros et, elementum ornare eros. Mauris in laoreet odio. Vivamus nec dapibus libero, at ullamcorper nulla.[^1]
 
 [^1]: ok
-
-
-??? info "A propos des _admonitions_"
-    Il existe plusieurs sortes d'admonitions avec des logos et parfois des couleurs différentes. Il n'est pas sûr que la liste qui suit soit complète.
