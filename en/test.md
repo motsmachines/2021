@@ -25,17 +25,19 @@ Lorem ipsum non tincidunt nunc erat in magna. Nulla arcu mauris, faucibus et ero
 
 [^1]: ok
 
-<details open>
-<summary>Titre</summary>
-<br>
-Information supplémentaire
-  Autre information
-</details>
-
 <details>
 <summary>Titre</summary>
 <br>
 Information supplémentaire
+  
+  Autre information
+</details>
+
+<details open>
+<summary>Titre</summary>
+<br>
+Information supplémentaire
+  
   Autre information
 </details>
 
