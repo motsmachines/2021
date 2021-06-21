@@ -15,9 +15,11 @@ Information supplémentaire
 
     ok le bloc
     
-okokokokok [^1]
+okokokokok [^1] okokookok [2] et okok [^2]
 
 [^1]: ok
+[2]: ok
+[^2]: ok
     
 ??? info "A propos des _admonitions_"
     Il existe plusieurs sortes d'admonitions avec des logos et parfois des couleurs différentes.
