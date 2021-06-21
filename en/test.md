@@ -28,16 +28,14 @@ Lorem ipsum non tincidunt nunc erat in magna. Nulla arcu mauris, faucibus et ero
 <details>
 <summary>Titre</summary>
 <br>
-Information supplémentaire
-  
-  Autre information
+* Information supplémentaire
+* Autre information
 </details>
 
 <details open>
 <summary>Titre</summary>
 <br>
-Information supplémentaire
-  
-  Autre information
+* Information supplémentaire
+* Autre information
 </details>
 
