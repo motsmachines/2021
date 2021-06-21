@@ -15,7 +15,7 @@ We invite you to submit both automatic and manual runs! Manual intervention shou
 
 <br>
 
-[<img src="next.png" width="30" vertical-align="middle"> PILOT TASK 1](https://simpletext-madics.github.io/2021/clef/en/task1)
+[<img src="next.png" width="20" vertical-align="middle"> PILOT TASK 1](https://simpletext-madics.github.io/2021/clef/en/task1)
 
 ---
 ---
