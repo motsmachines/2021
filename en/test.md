@@ -11,7 +11,7 @@ We invite you to submit both automatic and manual runs! Manual intervention shou
 
 ---
 
-<button>[Access](https://simpletext-madics.github.io/2021/clef/en/tasks)</button> | <button class="button-save large">[Pilot task 1](https://simpletext-madics.github.io/2021/clef/en/task1)</button> | <button class="button-save large">[Pilot task 2](https://simpletext-madics.github.io/2021/clef/en/task2)</button> | <button class="button-save large">[Pilot task 3](https://simpletext-madics.github.io/2021/clef/en/task3)</button>
+<button>[Access](https://simpletext-madics.github.io/2021/clef/en/tasks)</button> | <button>[Pilot task 1](https://simpletext-madics.github.io/2021/clef/en/task1)</button> | <button>[Pilot task 2](https://simpletext-madics.github.io/2021/clef/en/task2)</button> | <button>[Pilot task 3](https://simpletext-madics.github.io/2021/clef/en/task3)</button>
 
 
 ---
