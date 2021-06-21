@@ -41,17 +41,3 @@ Praesent ut tincidunt lorem, quis aliquam leo. Duis ut erat orci. Integer dignis
 
 [^1]: ok
 [^2]: ok
-    
-??? info "A propos des _admonitions_"
-    Il existe plusieurs sortes d'admonitions avec des logos et parfois des couleurs différentes.
-    
-    
-    
-    
-
-
----
-
-<button class="button-save large">Big Fat Button</button>
-
-=== fancy ===
