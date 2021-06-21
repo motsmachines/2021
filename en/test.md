@@ -3,6 +3,17 @@
 <button class="button-save large">[Home](https://simpletext-madics.github.io/2021/clef/en)</button> | <button class="button-save large">[Call for papers](https://simpletext-madics.github.io/2021/clef/en/CFP)</button> | <button class="button-save large">[Important dates](https://simpletext-madics.github.io/2021/clef/en/dates)</button> | <button class="button-save large">[Pilot tasks](https://simpletext-madics.github.io/2021/clef/en/tasks)</button>  
 <button class="button-save large">[Program](https://simpletext-madics.github.io/2021/clef/en/program)</button> | <button class="button-save large">[Publications](https://simpletext-madics.github.io/2021/clef/en/publications)</button> | <button class="button-save large">[Organisers](https://simpletext-madics.github.io/2021/clef/en/organisers)</button> | <button class="button-save large">[Contact](https://simpletext-madics.github.io/2021/clef/en/contact)</button>
 
+---
+
+## SimpleText Pilot Task Guidelines
+
+We invite you to submit both automatic and manual runs! Manual intervention should be reported.
+
+---
+
+[Access](https://simpletext-madics.github.io/2021/clef/en/tasks) | [Pilot task 1](https://simpletext-madics.github.io/2021/clef/en/task1) | [Pilot task 2](https://simpletext-madics.github.io/2021/clef/en/task2) | [Pilot task 3](https://simpletext-madics.github.io/2021/clef/en/task3)
+
+
 <details>
 <summary>Titre</summary>
 <br>
