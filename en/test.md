@@ -1,6 +1,6 @@
 # SimpleText@CLEF-2021 Call for papers
 
-<button class="button-save large">[Home](https://simpletext-madics.github.io/2021/clef/en)</button> | [Call for papers](https://simpletext-madics.github.io/2021/clef/en/CFP) | [Important dates](https://simpletext-madics.github.io/2021/clef/en/dates) | [Pilot tasks](https://simpletext-madics.github.io/2021/clef/en/tasks)  
+<button class="button-save large">[Home](https://simpletext-madics.github.io/2021/clef/en)</button> | <button class="button-save large">[Call for papers](https://simpletext-madics.github.io/2021/clef/en/CFP)</button> | <button class="button-save large">[Important dates](https://simpletext-madics.github.io/2021/clef/en/dates)</button> | <button class="button-save large">[Pilot tasks](https://simpletext-madics.github.io/2021/clef/en/tasks)</button>  
 [Program](https://simpletext-madics.github.io/2021/clef/en/program) | [Publications](https://simpletext-madics.github.io/2021/clef/en/publications) | [Organisers](https://simpletext-madics.github.io/2021/clef/en/organisers) | [Contact](https://simpletext-madics.github.io/2021/clef/en/contact) | [<img src="../FR.png" width="30">](https://simpletext-madics.github.io/2021/clef/fr/CFP)
 
 <details>
