@@ -10,9 +10,9 @@ Information supplémentaire
 
     ok le bloc
     
-okokokokok [^nbp]
+okokokokok [^1]
 
-
+[^1]: ok
     
 ??? info "A propos des _admonitions_"
     Il existe plusieurs sortes d'admonitions avec des logos et parfois des couleurs différentes.
@@ -20,4 +20,10 @@ okokokokok [^nbp]
     
     
     
-[^nbp]: ok
+
+
+---
+
+<button class="button-save large">Big Fat Button</button>
+
+=== fancy ===
