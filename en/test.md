@@ -57,3 +57,7 @@ For this edition queries are a selection of recent n press titles from The Guard
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. In pellentesque metus vehicula leo pellentesque, at tristique odio venenatis. Fusce faucibus lectus dolor, quis egestas erat convallis ut. Nunc iaculis faucibus dolor vel luctus. Phasellus id lorem dolor. Duis sagittis ultrices risus porttitor congue. Nullam mauris turpis, dapibus eu nisi eu, dignissim finibus nunc. Nunc neque augue, aliquet eget facilisis congue, efficitur id magna. Phasellus sollicitudin nulla consequat, tristique turpis et, semper lectus. Sed urna nisi, rhoncus vitae varius laoreet, iaculis a nisl. Quisque purus magna, consequat varius dictum euismod, eleifend a erat. Quisque ornare lacus quis dignissim pellentesque. Fusce sollicitudin, purus vitae ullamcorper bibendum, elit enim ornare tellus, non tincidunt nunc erat in magna. Nulla arcu mauris, faucibus et eros et, elementum ornare eros. Mauris in laoreet odio. Vivamus nec dapibus libero, at ullamcorper nulla.[^1]
 
 [^1]: ok
+
+
+??? info "A propos des _admonitions_"
+    Il existe plusieurs sortes d'admonitions avec des logos et parfois des couleurs différentes. Il n'est pas sûr que la liste qui suit soit complète.
