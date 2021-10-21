@@ -19,7 +19,7 @@
 
 * 10:45	- 11:30	   **Fabio Regattin**, Università degli Studi di Udine, Italie.	Traduction automatique et jeux de mots : l’incursion (ludique) d’un inculte **[[article]](submissions/Mots-Machines-2021_paper_5.pdf)** **[[présentation]](submissions/regattin_presentation.pdf)**
 
-* 11:30	- 12:15	   **Farah Benamara**, IRIT, France.	Multilingual Irony Detection in Social Media **[[résumé]](submissions/BenamaraAbstract.pdf)** **[[presentation]](submissions/Benamara-presentation.pdf)**
+* 11:30	- 12:15	   **Farah Benamara**, IRIT, France.	Multilingual Irony Detection in Social Media **[[résumé]](submissions/BenamaraAbstract.pdf)** **[[présentation]](submissions/Benamara-presentation.pdf)**
  
 ### 12:15	- 13:30	   Repas
 
@@ -31,13 +31,13 @@
 
 * 14:30	- 15:00	   **Alice Pennors**, Amstratgraph - CAE 29 Chrysalide, France.	Some limits for social listening and sentimentanalysis in regards to humor : an iceberg of culturaland technological subtleties behind Japanese slangand emoticons **[[article]](submissions/Mots-Machines-2021_paper_8.pdf)**
 
-* 15:00	- 15:30	   **Yuliya Samofalova**, **Andrea Catellani** and **Louise-Amélie Cougnon**, Université Catholique de Louvain, Belgique.	Greenpeace memes for communicating climate change **[[article]](submissions/Mots-Machines-2021_paper_10.pdf)** **[[presentation]](submissions/Presentation-Yuliya-Samofalova.pdf)**
+* 15:00	- 15:30	   **Yuliya Samofalova**, **Andrea Catellani** and **Louise-Amélie Cougnon**, Université Catholique de Louvain, Belgique.	Greenpeace memes for communicating climate change **[[article]](submissions/Mots-Machines-2021_paper_10.pdf)** **[[présentation]](submissions/Presentation-Yuliya-Samofalova.pdf)**
  
 * 15:30	- 15:45	   *Pause café*
 
 * 15:45	- 16:15	   **Anca Christine Pascu**, Université de Bretagne Occidentale, France.	Modelling a software of semantic text analysis **[[article]](submissions/Mots-Machines-2021_paper_4.pdf)** **[[présentation]](submissions/pascu-jeu-de-mots.pdf)**
 
-* 16:15	- 16:45	   **Benoît Jeanjean**, Université de Bretagne Occidentale, France.	La traduction des jeux de mots sur les noms propres dans les œuvres de saint Jérôme **[[article]](submissions/Mots-Machines-2021_paper_9.pdf)**
+* 16:15	- 16:45	   **Benoît Jeanjean**, Université de Bretagne Occidentale, France.	La traduction des jeux de mots sur les noms propres dans les œuvres de saint Jérôme **[[article]](submissions/Mots-Machines-2021_paper_9.pdf)** **[[présentation]](submissions/La_traduction_des_jeux_de_mots_sur_les_noms_propres_chez_Jérôme.ppt)**
 
 * 16:45	- 17:15	   **Gaël Guibon**, LTCI, Télécom Paris, Institut Polytechnique de Paris, France, **Hosni Seffih**, **Anton Firsov** and **Guillaume Le Noé-Bienvenu**	Multilingual Fake News Detection with Satire **[[article]](submissions/Mots-Machines-2021_paper_12.pdf)** **[[présentation]](submissions/Multilingual-Fake-News-Detection-with-Satire.pdf)**
 
