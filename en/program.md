@@ -38,7 +38,7 @@
 
 * 15:45	- 16:15	   **Anca Christine Pascu** Université de Bretagne Occidentale, France.	Modelling a software of semantic text analysis **[[article]](submissions/Mots-Machines-2021_paper_4.pdf)** **[[presentation]](submissions/pascu-play-on-words.pdf)**
 
-* 16:15	- 16:45	   **Benoît Jeanjean**, Université de Bretagne Occidentale, France.	La traduction des jeux de mots sur les noms propres dans les œuvres de saint Jérôme **[[article]](submissions/Mots-Machines-2021_paper_9.pdf)**
+* 16:15	- 16:45	   **Benoît Jeanjean**, Université de Bretagne Occidentale, France.	La traduction des jeux de mots sur les noms propres dans les œuvres de saint Jérôme **[[article]](submissions/Mots-Machines-2021_paper_9.pdf)**  **[[presentation]](submissions/La_traduction_des_jeux_de_mots_sur_les_noms_propres_chez_Jérôme.ppt)**
 
 * 16:45	- 17:15	   **Gaël Guibon**, LTCI, Télécom Paris, Institut Polytechnique de Paris, France, **Hosni Seffih**, **Anton Firsov** and **Guillaume Le Noé-Bienvenu**	Multilingual Fake News Detection with Satire **[[article]](submissions/Mots-Machines-2021_paper_12.pdf)** **[[presentation]](submissions/Multilingual-Fake-News-Detection-with-Satire.pdf)**
 
