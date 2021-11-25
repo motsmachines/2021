@@ -26,6 +26,8 @@ Nous encourageons également la participation en ligne au vu de la situation san
 
 [Site Web 2021](https://motsmachines.github.io/2021)
 
+[Site Web 2022](https://motsmachines.github.io/2022)
+
 E-mail : [mots.machines@gmail.com](mailto:mots.machines@gmail.com)
 
 
